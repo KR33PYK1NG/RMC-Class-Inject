@@ -1,0 +1,8 @@
+/*
+!/src/
+!/gradle/
+!/.github/
+!/gradlew
+!/gradlew.bat
+!/build.gradle.kts
+!/.gitignore
